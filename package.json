@@ -1,2 +1,40 @@
 {
+
+    "name": "tiktok-bot",
+    "version": "1.0.01",
+    "description": "Script ShareBot Tiktok video",
+    "main": "",
+    "keywords": [
+        "repl-it-tiktok-share-bot",
+        "tiktok-share-bot",
+        "sharebottiktok",
+        "tiktok-sharebot",
+        "replit-share-bot-tiktok",
+    ],
+   "homepage": "https://github.com/Rizxyu",
+    "author": "FearTeam",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Rizxyu/Tiktok-ShareBot"
+    },
+    "bugs": {
+        "url": "https://github.com/Rizxyu/Tiktok-ShareBot/issues"
+    },
+    "license": "GPL-3.0-or-later",
+    "dependencies": {
+    "axios": "^0.24.0",
+    "cfonts": "^2.10.0",
+    "chalk": "^5.0.0",
+    "cheerio": "^1.0.0-rc.10",
+    "node-fetch": "^3.2.0",
+    "node-gtts": "^2.0.2",
+    "node-webpmux": "^3.1.1",
+    "similarity": "^1.2.1",
+    "socket.io": "^4.4.1",
+    "syntax-error": "^1.4.0",
+    "terminal-image": "^2.0.0",
+    "ts-node": "^10.2.1",
+    "url-regex-safe": "^3.0.0",
+    "yargs": "^17.3.1"
+    }
 }
